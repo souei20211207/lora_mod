@@ -1,6 +1,6 @@
 # When Message "ValueError: Checkpoint not supported because layer lora_unet_label_emb_0_0.alpha not supported." appears.
 
-Try to run this program.
+Try to run this program.I'm successful in lora of Illustrious model.
 
 __py lora_mod.py input_file output_file__
 
